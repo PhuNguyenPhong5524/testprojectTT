@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "userId": "2",
+      "title": "hello121",
+      "completed": "true",
+      "id": "1"
+    }
+  ],
+  "product": [
+    {
+      "userId": "3",
+      "title": "hello",
+      "completed": "true",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "title": "hello2",
+      "completed": "true"
+    },
+    {
+      "id": "3",
+      "userId": "5",
+      "title": "title",
+      "completed": "true"
+    },
+    {
+      "id": "3",
+      "userId": "",
+      "title": "",
+      "completed": "true"
+    },
+    {
+      "id": "5",
+      "userId": "3",
+      "title": "title1",
+      "completed": "true"
+    },
+    {
+      "id": "334b",
+      "username": "demo@cnd.etelling.space",
+      "password": "12121212"
+    },
+    {
+      "id": "1922",
+      "username": "demo@cnd.etelling.space",
+      "password": "12121212"
+    }
+  ],
+  "user": [
+    {
+      "username": "nguyenbuianhtien20181",
+      "password": "123456789",
+      "id": "3b37"
+    },
+    {
+      "username": "nguyenbuianhtien2018",
+      "password": "1234567",
+      "id": "3b34"
+    },
+    {
+      "username": "nguyenbuianhtien20182",
+      "password": "123456701",
+      "id": "3b35"
+    }
+  ]
+}

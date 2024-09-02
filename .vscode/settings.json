@@ -1,0 +1,31 @@
+{
+  "workbench.colorTheme": "Theme",
+  "workbench.iconTheme": "material-icon-theme",
+  "cSpell.words": [
+    "apexcharts",
+    "arruserlogin",
+    "Changecategories",
+    "confirmpassword",
+    "fetchdata",
+    "filtercategory",
+    "filterteacher",
+    "formconfirm",
+    "formik",
+    "handlecategory",
+    "idclass",
+    "Lable",
+    "nameselect",
+    "objemail",
+    "Passwordcontrol",
+    "responsecatecourse",
+    "responsecourse",
+    "responsehomepage",
+    "responsepacket",
+    "resultform",
+    "setselected",
+    "swiper",
+    "toastify",
+    "zustand"
+  ],
+  "workbench.preferredHighContrastColorTheme": "Dracula Theme"
+}
