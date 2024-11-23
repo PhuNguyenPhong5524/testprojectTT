@@ -148,6 +148,22 @@ export default function NavHome(): React.JSX.Element {
                             </Typography>
                           </Button>
                         </Link>
+                        <Link underline="none" component={RouterLink} href="/auth/sign-in">
+                          <Button
+                            sx={{
+                              padding: '0px 0px',
+                              borderRadius: '5px',
+                              border: '1px solid #2378b9',
+                              '&:hover': { background: '#FAFAFA', border: '1px solid #027ac1' },
+                            }}
+                            color="primary"
+                            variant="outlined"
+                          >
+                            <Typography variant="h6" sx={{ StyleButtonNavHome }}>
+                              Sign in
+                            </Typography>
+                          </Button>
+                        </Link>
                       </>
                     ) : (
                       <Box>
